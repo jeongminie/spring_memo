@@ -26,7 +26,7 @@
 						<input id="passwordInput" type="text" class="form-control mt-3" placeholder="패스워드">
 						<button id="loginBtn" type="submit" class="btn btn-success btn-block mt-3">로그인</button>
 					</form>
-					<div class="mt-3 text-right" ><a href="/user/signup_view">회원가입</a></div>
+					<div class="mt-3 text-right" ><a href="/user/signUp_view">회원가입</a></div>
 				</div>
 			</div>
 		
@@ -58,7 +58,7 @@
 					data:{"loginId":loginId, "password":password},
 					success:function(data) {
 						if(data.result == "success") {
-							alert("로그인 성공");
+							location.href="/post/list_view";
 						} else {
 							alert("아이디 비밀번호를 확인하세요");
 						}
