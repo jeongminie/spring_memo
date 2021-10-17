@@ -11,8 +11,8 @@
 ![AWS](https://img.shields.io/badge/AWS-FA5882?style=flat-square&logo=AmazonAWS&logoColor=black)
 
 ## :memo:프로젝트 설명:pencil2:
- - 본격적인 웹서비스 개발에 들어가기 앞서 기본적인 로그인,포스팅 구현을 배우기 위한 '메모' 프로젝트
- - 간편하게 메모를 남길수 있는 웹서비스
+ - 본격적인 웹서비스 개발에 들어가기 앞서 로그인, 포스팅 구현을 배우기 위한 '메모' 프로젝트
+ - 간편하게 메모를 남길 수 있는 웹서비스
  
  
  ## :last_quarter_moon_with_face:포트폴리오:first_quarter_moon_with_face:
