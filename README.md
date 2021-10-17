@@ -27,7 +27,7 @@
     * package : [com.jeongmini.project.user.*](https://github.com/jeongminie/spring_memo/tree/develop/src/main/java/com/jeongmini/memo/user)
     * view  : [/webapp/WEB-INF/jsp/user/*](https://github.com/jeongminie/spring_memo/tree/develop/src/main/webapp/WEB-INF/jsp/user)
  * 로그인
-    * package :  [com.jeongmini.project.user.*](hhttps://github.com/jeongminie/spring_memo/tree/develop/src/main/java/com/jeongmini/memo/user)
+    * package : [com.jeongmini.project.user.*](https://github.com/jeongminie/spring_memo/tree/develop/src/main/java/com/jeongmini/memo/user)
     * view  : [/webapp/WEB-INF/jsp/user/*](https://github.com/jeongminie/spring_memo/tree/develop/src/main/webapp/WEB-INF/jsp/user)
  * 메모 작성
     * package :[com.jeongmini.project.post.*](https://github.com/jeongminie/spring_memo/tree/develop/src/main/java/com/jeongmini/memo/post)
