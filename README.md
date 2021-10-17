@@ -11,7 +11,7 @@
 ![AWS](https://img.shields.io/badge/AWS-FA5882?style=flat-square&logo=AmazonAWS&logoColor=black)
 
 ## :memo:프로젝트 설명:pencil2:
- - 첫 웝페이지 서비스 프로젝트 
+ - 본격적인 웹서비스 개발에 들어가기 앞서 기본적인 로그인,포스팅 구현을 배우기 위한 '메모' 프로젝트
  - 간편하게 메모를 남길수 있는 웹서비스
  
  
@@ -24,20 +24,14 @@
      
  ## :last_quarter_moon_with_face:주요기능:first_quarter_moon_with_face:
  * 회원가입
-    * package : [com.jeongmini.project.user.*](https://github.com/jeongminiee/spring_project/tree/develop/src/main/java/com/jeongmini/project/user)
-    * view  : [/webapp/WEB-INF/jsp/user/*](https://github.com/jeongminiee/spring_project/tree/develop/src/main/webapp/WEB-INF/jsp/user)
+    * package : [com.jeongmini.project.user.*](https://github.com/jeongminie/spring_memo/tree/develop/src/main/java/com/jeongmini/memo/user)
+    * view  : [/webapp/WEB-INF/jsp/user/*](https://github.com/jeongminie/spring_memo/tree/develop/src/main/webapp/WEB-INF/jsp/user)
  * 로그인
-    * package :  [com.jeongmini.project.user.*](https://github.com/jeongminiee/spring_project/tree/develop/src/main/java/com/jeongmini/project/user)
-    * view  : [/webapp/WEB-INF/jsp/user/*](https://github.com/jeongminiee/spring_project/tree/develop/src/main/webapp/WEB-INF/jsp/user)
- * 게시물 작성 & 일기 작성
-    * package :[com.jeongmini.project.post.*](https://github.com/jeongminiee/spring_project/tree/develop/src/main/java/com/jeongmini/project/post)
-    * view  : [/webapp/WEB-INF/jsp/post/*](https://github.com/jeongminiee/spring_project/tree/develop/src/main/webapp/WEB-INF/jsp/post)
- * 댓글
-    * package :[com.jeongmini.project.post.comment.*](https://github.com/jeongminiee/spring_project/tree/develop/src/main/java/com/jeongmini/project/post/comment)
-    * view  :  [/webapp/WEB-INF/jsp/post/*](https://github.com/jeongminiee/spring_project/tree/develop/src/main/webapp/WEB-INF/jsp/post)
- * 공감
-    * package : [com.jeongmini.project.post.sympathy.*](https://github.com/jeongminiee/spring_project/tree/develop/src/main/java/com/jeongmini/project/post/sympathy)
-    * view  : [/webapp/WEB-INF/jsp/post/*](https://github.com/jeongminiee/spring_project/tree/develop/src/main/webapp/WEB-INF/jsp/post)
+    * package :  [com.jeongmini.project.user.*](hhttps://github.com/jeongminie/spring_memo/tree/develop/src/main/java/com/jeongmini/memo/user)
+    * view  : [/webapp/WEB-INF/jsp/user/*](https://github.com/jeongminie/spring_memo/tree/develop/src/main/webapp/WEB-INF/jsp/user)
+ * 메모 작성
+    * package :[com.jeongmini.project.post.*](https://github.com/jeongminie/spring_memo/tree/develop/src/main/java/com/jeongmini/memo/post)
+    * view  : [/webapp/WEB-INF/jsp/post/*](https://github.com/jeongminie/spring_memo/tree/develop/src/main/webapp/WEB-INF/jsp/post)
 
 ## :last_quarter_moon_with_face:데모:first_quarter_moon_with_face:
 
